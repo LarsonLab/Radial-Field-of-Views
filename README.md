@@ -5,8 +5,12 @@ Radial sampling patterns in frequency space to support anisotropic field of view
 This archive includes Matlab functions to design acquisition schemes
 for radial fourier/frequency space sampling that will support the desired field-of-view (FOV), where the primary application is for MRI acquisition trajectories in k-space.
 Included are design functions for 2D and 3D radial frequency space sampling, as well as 
-PROPELLER MRI trajectories.  As a recent addition, C-file implementations for designing
-elliptical FOV trajectories are included.
+PROPELLER MRI trajectories.  C implementations for designing
+elliptical FOV trajectories are also included.
+
+A recent addition is a 2D golden angle ordering (with anisotropic FOV) and a 3D golden angle ordering (only isotropic FOV).  There is currently a need for a
+- 3D anisotropic FOV golden angle strategies
+
 
 Within Matlab, use "help Radial-Field-of-Views" for information on the design
 functions included in this package.  Documentation on each specific
@@ -24,9 +28,6 @@ Peder E. Z. Larson, M. Lustig, and Dwight G. Nishimura. “Anisotropic field-of-
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2882965/
 * http://radiology.ucsf.edu/sites/all/files/filemanager/research/Larson/LarsonPropellerFOV.pdf
 
-Another recent addition is a 2D golden angle ordering (with anisotropic FOV) and a 3D golden angle ordering (only isotropic FOV).  There is currently a need for a
-- 3D anisotropic FOV golden angle strategies
-
-Originally Designed by Peder Larson and Paul Gurney, also contributions from Wenwen Jiang
-(c) 2007-2014, Board of Trustees, Leland Stanford Junior University and The Regents of the University of California. 
+Contributors: Peder Larson, Paul Gurney, Wenwen Jiang
+(c) 2007-2015, Board of Trustees, Leland Stanford Junior University and The Regents of the University of California. 
 
