@@ -21,12 +21,12 @@ Peder E.Z. Larson and Paul T. Gurney and Dwight G. Nishimura.
 "Anisotropic Field-of-Views in Radial Imaging."
 *IEEE Transactions on Medical Imaging.* 27(1): 47-57 (2008).
 * http://dx.doi.org/10.1109/TMI.2007.902799
-* http://radiology.ucsf.edu/sites/all/files/filemanager/research/Larson/LarsonRadialFOVs.pdf
+* https://radiology.ucsf.edu/sites/radiology.ucsf.edu/files/import/filemanager/research/Larson/LarsonRadialFOVs.pdf
 
 Peder E. Z. Larson, M. Lustig, and Dwight G. Nishimura. “Anisotropic field-of-view shapes for improved PROPELLER imaging.” *Magn Reson Imaging*, 27(4):470–479, May
 2009.
 * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2882965/
-* http://radiology.ucsf.edu/sites/all/files/filemanager/research/Larson/LarsonPropellerFOV.pdf
+* https://radiology.ucsf.edu/sites/radiology.ucsf.edu/files/import/filemanager/research/Larson/LarsonPropellerFOV.pdf
 
 Contributors: Peder Larson, Paul Gurney, Wenwen Jiang
 (c) 2007-2015, Board of Trustees, Leland Stanford Junior University and The Regents of the University of California. 
