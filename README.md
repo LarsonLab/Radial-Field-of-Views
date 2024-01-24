@@ -5,12 +5,16 @@ Radial sampling patterns in frequency space to support anisotropic field of view
 This archive includes Matlab functions to design acquisition schemes
 for radial fourier/frequency space sampling that will support the desired field-of-view (FOV), where the primary application is for MRI acquisition trajectories in k-space.
 Included are design functions for 2D and 3D radial frequency space sampling, as well as 
-PROPELLER MRI trajectories.  C implementations for designing
+PROPELLER MRI trajectories and golden angle ordering.  C implementations for designing
 elliptical FOV trajectories are also included.
 
-A recent addition is a 2D golden angle ordering (with anisotropic FOV) and a 3D golden angle ordering (only isotropic FOV).  There is currently a need for a
-- 3D anisotropic FOV golden angle strategies
+![image](https://github.com/LarsonLab/Radial-Field-of-Views/assets/8160868/141ebb15-439b-445d-9310-8c903721d362)
 
+Illustration of Sampling in radial imaging
+
+![image](https://github.com/LarsonLab/Radial-Field-of-Views/assets/8160868/10be9486-c26b-4fe4-8278-6039f5bf5f87)
+
+Point Spread Functions for 3-D PR trajectories with anisotropic FOVs 
 
 Within Matlab, use "help Radial-Field-of-Views" for information on the design
 functions included in this package.  Documentation on each specific
