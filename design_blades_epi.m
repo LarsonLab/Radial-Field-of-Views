@@ -148,7 +148,8 @@ function [alpha, L, dka, Nr, Nramp] = design_blades_epi(T, dt, norm_slew, rot_es
   Nblades = length(alpha)-1;
 
   set_best;
-  
+  Idup_best = Idup_best;
+
   function set_best
     alpha_best = alpha;
     dka_best = dka;
